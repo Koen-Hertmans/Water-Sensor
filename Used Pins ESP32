@@ -1,0 +1,4 @@
+Pin22 (SCL) i2c
+pin21 (SDA) i2c
+Pin16 buzzer alarm
+Pin34 water sensor
